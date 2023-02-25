@@ -1,0 +1,3 @@
+# relationships_and_romance - friendship_and_social_connections
+
+This directory contains prompts related to friendship_and_social_connections.

@@ -1,0 +1,3 @@
+# work_and_career - networking_and_professional_development
+
+This directory contains prompts related to networking_and_professional_development.

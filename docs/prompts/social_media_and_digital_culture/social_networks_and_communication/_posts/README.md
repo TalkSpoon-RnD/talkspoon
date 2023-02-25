@@ -1,0 +1,3 @@
+# social_media_and_digital_culture - social_networks_and_communication
+
+This directory contains prompts related to social_networks_and_communication.

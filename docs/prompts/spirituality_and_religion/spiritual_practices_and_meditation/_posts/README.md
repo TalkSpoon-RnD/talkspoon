@@ -1,0 +1,3 @@
+# spirituality_and_religion - spiritual_practices_and_meditation
+
+This directory contains prompts related to spiritual_practices_and_meditation.

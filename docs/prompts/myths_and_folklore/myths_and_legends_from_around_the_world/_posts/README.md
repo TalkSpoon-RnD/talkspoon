@@ -1,0 +1,3 @@
+# myths_and_folklore - myths_and_legends_from_around_the_world
+
+This directory contains prompts related to myths_and_legends_from_around_the_world.

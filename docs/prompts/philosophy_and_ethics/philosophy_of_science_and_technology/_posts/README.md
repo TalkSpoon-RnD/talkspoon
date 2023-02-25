@@ -1,0 +1,3 @@
+# philosophy_and_ethics - philosophy_of_science_and_technology
+
+This directory contains prompts related to philosophy_of_science_and_technology.

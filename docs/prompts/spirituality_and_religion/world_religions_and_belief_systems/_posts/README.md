@@ -1,0 +1,3 @@
+# spirituality_and_religion - world_religions_and_belief_systems
+
+This directory contains prompts related to world_religions_and_belief_systems.

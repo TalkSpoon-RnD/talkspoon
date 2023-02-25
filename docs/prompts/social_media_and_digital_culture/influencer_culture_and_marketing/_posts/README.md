@@ -1,0 +1,3 @@
+# social_media_and_digital_culture - influencer_culture_and_marketing
+
+This directory contains prompts related to influencer_culture_and_marketing.

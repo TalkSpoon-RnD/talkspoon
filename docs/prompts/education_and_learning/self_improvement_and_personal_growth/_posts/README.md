@@ -1,0 +1,3 @@
+# education_and_learning - self_improvement_and_personal_growth
+
+This directory contains prompts related to self_improvement_and_personal_growth.

@@ -1,0 +1,3 @@
+# futurism_and_speculation - dystopias_and_apocalyptic_scenarios
+
+This directory contains prompts related to dystopias_and_apocalyptic_scenarios.
