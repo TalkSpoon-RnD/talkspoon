@@ -21,11 +21,7 @@
 title: TalkSpoon
 # email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  TalkSpoon is aims to share prompts for chatbot and other similar AI services. 
-  The prompts are designed to help users generate more natural and engaging conversations with AI programs. 
-  The prompts are contributed by the community and are categorized by topic and use case. 
-  Users can also submit their own prompts for others to use. 
-  Talkspoon's mission is to help democratize AI by providing a platform for users to share their knowledge and creativity with others.
+  TalkSpoon is aims to share prompts for ChatGPT and other similar AI services. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.talkspoon.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
