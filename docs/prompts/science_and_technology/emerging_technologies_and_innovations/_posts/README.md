@@ -1,0 +1,3 @@
+# science_and_technology - emerging_technologies_and_innovations
+
+This directory contains prompts related to emerging_technologies_and_innovations.

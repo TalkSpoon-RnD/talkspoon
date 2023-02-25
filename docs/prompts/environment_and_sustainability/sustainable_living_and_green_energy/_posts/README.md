@@ -1,0 +1,3 @@
+# environment_and_sustainability - sustainable_living_and_green_energy
+
+This directory contains prompts related to sustainable_living_and_green_energy.

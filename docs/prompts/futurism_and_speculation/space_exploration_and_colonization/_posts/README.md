@@ -1,0 +1,3 @@
+# futurism_and_speculation - space_exploration_and_colonization
+
+This directory contains prompts related to space_exploration_and_colonization.

@@ -1,0 +1,3 @@
+# art_and_design - photography_and_photographic_techniques
+
+This directory contains prompts related to photography_and_photographic_techniques.

@@ -1,0 +1,3 @@
+# spirituality_and_religion - philosophy_of_religion_and_ethics
+
+This directory contains prompts related to philosophy_of_religion_and_ethics.

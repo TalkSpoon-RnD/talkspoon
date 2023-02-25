@@ -1,0 +1,3 @@
+# travel_and_tourism - adventure_travel_and_outdoor_activities
+
+This directory contains prompts related to adventure_travel_and_outdoor_activities.

@@ -1,0 +1,3 @@
+# news_and_current_events - investigative_journalism_and_features
+
+This directory contains prompts related to investigative_journalism_and_features.

@@ -1,0 +1,3 @@
+# futurism_and_speculation - future_technologies_and_innovations
+
+This directory contains prompts related to future_technologies_and_innovations.

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to TalkSpoon!"
+title:  "How To?"
 date:   2023-02-26 00:46:00 +0800
 permalink: /how-to/
 ---
+## Wellcome to TalkSpoon!
 
 Here are the steps to contribute a prompt to TalkSpoon by creating a Markdown file under a specified category directory and submitting a pull request (PR) on GitHub:
 

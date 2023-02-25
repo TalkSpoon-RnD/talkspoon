@@ -1,0 +1,3 @@
+# politics_and_social_issues - human_rights_and_social_justice
+
+This directory contains prompts related to human_rights_and_social_justice.
