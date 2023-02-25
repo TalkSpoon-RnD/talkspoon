@@ -1,6 +1,4 @@
 # TalkSpoon
-TalkSpoon.com is aims to share prompts for ChatGPT and other similar AI services. The prompts are designed to help users generate more natural and engaging conversations with AI programs. 
-
 TalkSpoon is a community-driven platform that aims to help users generate more engaging conversations with AI programs by providing a database of prompts. Our platform is designed to be user-friendly and easy to use, and our prompts are contributed by the community and categorized by topic and use case.
 
 Currently, TalkSpoon only supports the submission of prompts through GitHub pull requests. If you would like to contribute a prompt, please follow these steps:
